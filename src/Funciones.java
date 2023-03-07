@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Funciones {
     // Esta variable es el array donde se guardan las distintas palabras que pueden salir.
     public static String[] palabras = {"humanidad", "persona", "hombre", "mujer", "individuo", "cuerpo", "pierna", "cabeza", "brazo", "familia"};

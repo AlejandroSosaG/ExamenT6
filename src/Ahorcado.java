@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Ahorcado {
     public static void main(String[] args) {
         int opc; // Esta es la opción que el usuario elegirá.
